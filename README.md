@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daniel-mooney
 - 👀 I’m interested in creating practical programs
-- 🌱 I’m currently learning C, R and React
-- 💞️ I’m looking to collaborate on nothing currently
+- 🌱 I’m currently learning C, Python and JavaScript
+- 💞️ I’m looking to collaborate with basic web development projects
 - 📫 How to reach me ...
 
 <!---
