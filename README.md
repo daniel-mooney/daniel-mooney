@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daniel-mooney
-- 👀 I’m interested in creating applicable
-- 🌱 I’m currently learning Java, Assembly and JavaScript
+- 👀 I’m interested in robotics and R&D
+- 🌱 I’m currently learning Haskell
 - 💞️ I’m looking to collaborate with anything. The more to learn!
 - 📫 How to reach me ...
 
