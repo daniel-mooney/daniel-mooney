@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daniel-mooney
-- 👀 I’m interested in robotics and R&D
-- 🌱 I’m currently learning Haskell
+- 👀 I’m interested in robotics and transformative technology
+- 🌱 I’m currently learning Haskell and Aiken
 - 💞️ I’m looking to collaborate with anything. The more to learn!
 - 📫 How to reach me ...
 
